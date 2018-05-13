@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "47388653388",
+    "firebase_url": "https://watch-25149.firebaseio.com",
+    "project_id": "watch-25149",
+    "storage_bucket": "watch-25149.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:47388653388:android:47a0fa59b6c11988",
+        "android_client_info": {
+          "package_name": "com.example.windows10timt.handmadewatch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "47388653388-096m0fbjglg2bk48e7qoq20s1un1659r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.windows10timt.handmadewatch",
+            "certificate_hash": "72a202b3b4dfe35c7c45bfff3c87287de8f68de3"
+          }
+        },
+        {
+          "client_id": "47388653388-pchla3qe73emm4u9l3gn210dj50edkd9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBA_TEFaOuZyBbuSKQpptD3ordSOF25-x4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "47388653388-pchla3qe73emm4u9l3gn210dj50edkd9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
